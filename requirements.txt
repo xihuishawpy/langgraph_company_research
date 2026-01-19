@@ -1,0 +1,10 @@
+certifi==2025.1.31
+fastapi==0.121.2
+langchain==1.0.7
+langchain-openai==1.0.3
+langchain-community==0.4.1
+pymongo==4.15.4
+reportlab==4.4.5
+tavily-python==0.7.13
+uvicorn[standard]==0.38.0
+python-dotenv==1.2.1
